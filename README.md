@@ -1,2 +1,2 @@
 # ivanize
-Configuration for Linux
+My favorite configuration for Linux
